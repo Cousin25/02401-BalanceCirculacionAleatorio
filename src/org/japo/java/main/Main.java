@@ -38,5 +38,4 @@ public class Main {
 
         System.out.printf("Balance con Math.random........: %.0f%n", balanceDouble * 1E10);
     }
-
 }
